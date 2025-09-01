@@ -1,2 +1,5 @@
-通过以下链接访问COAT
-[USTB-COAT](https://ustb-806.github.io/COAT/#/)
+# COAT
+
+本仓库为 **北京科技大学计算机与通信工程学院** 计算机组成原理课程设计指导网站的仓库。若希望对本仓库进行贡献，请联系助教。
+
+可以通过以下链接访问 COAT [USTB-COAT](https://ustb-806.github.io/COAT/#/)
